@@ -1,6 +1,6 @@
 # Daily Learning   #日常学习
 ## Morning Planning   早上计划
-![Cloudy morning](https://octodex.github.com/images/cloud.jpg)<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Review   # #审查
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
